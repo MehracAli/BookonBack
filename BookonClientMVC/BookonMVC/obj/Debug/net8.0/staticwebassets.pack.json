@@ -1,0 +1,449 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookonMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BookonMVC.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\.package-lock.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\.package-lock.json"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\@popperjs\\core\\package.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\@popperjs\\core\\package.json"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap-icons\\package.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap-icons\\package.json"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\node_modules\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\node_modules\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\package-lock.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\package-lock.json"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\package.json"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\fonts\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\fonts\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\fonts\\Roboto-Thin.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\Roboto-Thin.ttf"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\images\\books\\56586_77433_1601498302.webp",
+      "PackagePath": "staticwebassets\\assets\\images\\books\\56586_77433_1601498302.webp"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\images\\header\\bookon-logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\bookon-logo.png"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\images\\header\\chat-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\chat-icon.png"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\images\\header\\notification-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\notification-icon.png"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\images\\header\\search-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\search-icon.png"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\images\\user-profiles\\ori-and-the-will-of-the-wisps-uhdpaper.com-4K-6.488.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-profiles\\ori-and-the-will-of-the-wisps-uhdpaper.com-4K-6.488.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\images\\user-profiles\\unnamed.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user-profiles\\unnamed.jpg"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\js\\header.js",
+      "PackagePath": "staticwebassets\\assets\\js\\header.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\js\\post.js",
+      "PackagePath": "staticwebassets\\assets\\js\\post.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\js\\profile.js",
+      "PackagePath": "staticwebassets\\assets\\js\\profile.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\js\\sidabar.js",
+      "PackagePath": "staticwebassets\\assets\\js\\sidabar.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\scss\\_book.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_book.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\scss\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_header.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\scss\\_home.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_home.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\scss\\_profile-edit.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_profile-edit.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\scss\\_profile.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_profile.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Programming\\BookonBack\\BookonClientMVC\\BookonMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BookonMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BookonMVC.props",
+      "PackagePath": "build\\BookonMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BookonMVC.props",
+      "PackagePath": "buildMultiTargeting\\BookonMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BookonMVC.props",
+      "PackagePath": "buildTransitive\\BookonMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
